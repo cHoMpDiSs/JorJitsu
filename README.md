@@ -1,6 +1,6 @@
 # JorJitsu
 
-![python icon](https://user-images.githubusercontent.com/102629027/181937293-e1e3f7b3-0634-4c7b-b869-5e9f98c43dc8.png)
+
 
 <p align=”center”>
 
