@@ -2,12 +2,11 @@
 
 
 
-<p align=”center”>
-
-<img width=”200" height=”200" src=”![python icon](https://user-images.githubusercontent.com/102629027/181937293-e1e3f7b3-0634-4c7b-b869-5e9f98c43dc8.png)" alt=”my banner”>
-
-</p>
-                                                                                                                                         
+<div id="badges">
+  <img src="https://user-images.githubusercontent.com/102629027/181938876-318048f7-6f43-4f22-8abd-47a2305e4411.png" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/102629027/181937283-4e85e57e-3d2a-4fdb-9dd6-442929fe95fb.png" width="50" height="50"/>
+  
+</div>                                                                                                                                 
 Full stack database with Python Flask PostgreSQL
 
 To run this fictional Jiu Jitsu school database you must first install the requirements in the requirements.txt 
