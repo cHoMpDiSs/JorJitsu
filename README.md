@@ -28,3 +28,5 @@ NOTE: app will not work if you havent install all correct packages.
 after "flask run" you can acess the front end from your web browser here "http://127.0.0.1:5000/"
 
 I will be adding more tables and columns as I go along but for now we can only add students to the database.
+
+![bjj_project](https://user-images.githubusercontent.com/102629027/181987398-8a984bab-83a3-494b-8383-2633efcc57f8.png)
