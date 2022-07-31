@@ -7,7 +7,7 @@ def home():
     students = db.session.query(Student.id, Student.name, Student.rank, Student.dob, Student.email).all()
     return render_template("index.html", students=students)
 
-@app.route("/submit", methods=["POST"]) #ADD GET IF DOESNT REFRESH
+@app.route("/submit", methods=["POST"]) 
 def submit():
    
     # global_student_object = Student()
