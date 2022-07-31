@@ -10,8 +10,7 @@ def home():
 @app.route("/submit", methods=["POST"]) 
 def submit():
    
-    # global_student_object = Student()
-    
+      
     
     name = request.form["name"],
     rank = request.form["rank"],
