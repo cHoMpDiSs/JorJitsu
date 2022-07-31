@@ -23,7 +23,7 @@ source venv/Scripts/activate
 set FLASK_APP=run.py
 export FLASK_ENV=development
 flask run
-NOTE: app will not work if you havent install all correct packages.
+NOTE: app will not work if you havent installed all correct packages.
 
 after "flask run" you can acess the front end from your web browser here "http://127.0.0.1:5000/"
 
