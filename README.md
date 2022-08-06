@@ -27,6 +27,6 @@ NOTE: app will not work if you havent installed all correct packages.
 
 after "flask run" you can acess the front end from your web browser here "http://127.0.0.1:5000/"
 
-I will be adding more tables and columns on the UI as I go along but for now we can only add students to the database throught the UI.
+I will be adding more tables and columns on the UI as I go along but for now we can only add students to the database throught the UI. I will also be formatting some DataTypes.
 
 ![bjj_project](https://user-images.githubusercontent.com/102629027/181987398-8a984bab-83a3-494b-8383-2633efcc57f8.png)
