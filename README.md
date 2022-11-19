@@ -9,7 +9,7 @@
 </div>                                                                                                                                 
 Full stack database with Python Flask PostgreSQL
 
-To run this fictional Jiu Jitsu school database you must first install the requirements in the requirements.txt 
+To run this fictional Jiu Jitsu school database locally you must first install the requirements in the requirements.txt 
 in a virtual enviorenment like "venv".
 
 
