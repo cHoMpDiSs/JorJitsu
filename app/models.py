@@ -27,11 +27,6 @@ class Student(db.Model):
         return f'Student("{self.name}","{self.rank}",{self.dob}, {self.email})'
 
 
-
-
-
-
-# these models are to be continued.... for now we have a functioning full stack database for students.
 class Academy(db.Model):
 
     __tablename__= 'academy'
