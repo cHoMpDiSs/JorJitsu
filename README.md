@@ -14,7 +14,7 @@ in a virtual enviorenment like "venv".
 
 
 
-open docker container to pgAdmin PostgreSQL database and create a database titled "JorJitsu"
+open docker desktop to pgAdmin PostgreSQL database and create a database titled "JorJitsu"
 
 then from main folder in the terminal run these commands 
 
